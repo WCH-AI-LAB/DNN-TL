@@ -1,6 +1,8 @@
 # DNN-TL
 
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/34342586/)
+<!-- ![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?logo=r&logoColor=white) -->
 
 ## Abstract
 **Background:** Previously, we constructed a deep neural network (DNN) model to estimate low-density lipoprotein cholesterol (LDL-C).
