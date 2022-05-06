@@ -17,6 +17,10 @@
 
 **Conclusions:** Our DNN+TL is expected to be suitable for routine real-time clinical application for LDL-C estimation in a clinical laboratory.
 
+## Data
+
+## Analysis
+
 ## Patent
 **Title:** METHOD AND SYSTEM FOR ESTIMATING LOW DENSITY LIPOPROTEIN CHOLESTEROL USING DNN MODEL RELATED TO EMR SYSTEM
 
